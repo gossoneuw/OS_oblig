@@ -1,0 +1,7 @@
+Process 1 started at time 0 and finished at time 4
+Process 2 started at time 7 and finished at time 17
+Process 3 started at time 17 and finished at time 19
+Process 4 started at time 19 and finished at time 27
+Process 5 started at time 27 and finished at time 28
+Process 6 started at time 35 and finished at time 42
+Process 7 started at time 42 and finished at time 44
