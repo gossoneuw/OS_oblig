@@ -1,0 +1,37 @@
+cat file1 file2 file3 | grep grape 
+
+Cat compiles the files and grep is used to search for words and writes it to user, in this case the search word is grape 
+
+cat file1 file2 file3 file4 | grep cat 
+
+Cat compiles the files and grep is used to search for words and writes it to user, in this case the search word is cat 
+
+ 
+
+who | wc –l 
+
+Who is used to see who is on the same system as you. This line shows how many people who is on the same system as you. 
+
+ 
+
+who | wc -l > file1 
+
+This line does the same. But it also writes the number to file1 
+
+ 
+
+sort < file1 > file2 
+
+The line sorts everything in file1 and writes it to file2 
+
+ 
+
+ 
+
+3.3.1 
+
+Rm -d. 
+
+3.3.2 
+
+man pwd. 
