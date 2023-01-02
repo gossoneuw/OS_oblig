@@ -1,0 +1,2 @@
+you can see that the number increases by 4 on the pointer, that means that the integer is using 4 bytes.
+i collaborated with Fredrik Stellander Knudsen on exersice 1
