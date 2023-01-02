@@ -1,0 +1,6 @@
+i want this content to be copied over to another file.\n
+i also want the code to print out how many lines are in this code.\n
+thats why im typing this.\n
+so there will be more lines to be printed and copied.\n
+go!\n
+now!\n
